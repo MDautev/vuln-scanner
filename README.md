@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ VulnScanner – Web Security Scanner (XSS, SQLi, Header Checks)
 
 A lightweight Python-based scanner that detects common web vulnerabilities:
@@ -28,7 +27,6 @@ Basic scan:
 ```bash
 python vulnscan.py --url "https://example.com/page.php?id=1&search=test"
 ```
-````
 
 Save output as Markdown:
 
